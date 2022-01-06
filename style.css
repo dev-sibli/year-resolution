@@ -40,3 +40,39 @@ h1 {
   border-radius: 5px;
   border: none;
 }
+.centered-heading {
+  text-align: center;
+}
+.section-box {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+.section-box img {
+  margin-top: 20px;
+  width: 180px;
+}
+.box-text {
+  width: 50%;
+}
+.mission {
+  width: 25%;
+  padding: 0px 10px 10px 20px;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+.vission {
+  width: 25%;
+  padding: 0px 10px 10px 20px;
+  background-color: pink;
+  border-radius: 20px;
+}
+.goal {
+  width: 25%;
+  background-color: powderblue;
+  border-radius: 20px;
+  padding: 0px 10px 10px 20px;
+}
