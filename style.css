@@ -106,3 +106,29 @@ h3 {
   padding-left: 2%;
   width: 500px;
 }
+.fifth-section {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+.fifth-section img {
+  width: 500px;
+}
+.right-side-fifth {
+  margin-top: 100px;
+  padding-left: 10%;
+}
+footer {
+  background-color: black;
+  height: 200px;
+  padding: 10px 0px 50px 0px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+.colored-footer {
+  color: #0cbc29;
+}
