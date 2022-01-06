@@ -1,0 +1,42 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0 auto;
+  font-size: 25px;
+}
+h1 {
+  font-size: 100px;
+}
+.first-section {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 2%;
+  margin: 0 auto;
+}
+.first-section img {
+  width: 600px;
+}
+.colored-heading {
+  color: #0cbc29;
+}
+.bordered-heading {
+  border-left: 5px solid #0cbc29;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.left-side-first {
+  margin-top: 80px;
+  width: 60%;
+}
+.first-para {
+  width: 80%;
+}
+.mission-btn {
+  color: white;
+  font-weight: 400;
+  font-size: 25px;
+  background-color: #0cbc29;
+  padding: 15px 50px;
+  border-radius: 5px;
+  border: none;
+}
