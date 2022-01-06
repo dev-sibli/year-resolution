@@ -34,8 +34,8 @@ h3 {
   margin-top: 80px;
   width: 60%;
 }
-.first-para {
-  width: 80%;
+.text-para {
+  width: 90%;
 }
 .mission-btn {
   color: white;
@@ -91,10 +91,18 @@ h3 {
   padding-left: 2%;
   width: 500px;
 }
-.third-para {
-  width: 90%;
-}
-
 .right-side-third {
-  padding-left: 10%;
+  padding-left: 8%;
+}
+.fourth-section {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+.fourth-section img {
+  padding-left: 2%;
+  width: 500px;
 }
